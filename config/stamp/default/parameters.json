@@ -15,10 +15,10 @@
             "value": "Standard_D1_v2"
         },
         "mongoVmSize": {
-            "value": "Standard_D2_v2"
+            "value": "Standard_D1_v2"
         },
         "mysqlVmSize": {
-            "value": "Standard_D2_v2"
+            "value": "Standard_D1_v2"
         },
         "frontendVmSize": {
             "value": "Standard_D2_v2"
@@ -27,7 +27,7 @@
             "value": "lexoxaadmin"
         },
         "adminPublicKey": {
-            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC0iva0zBWdXciUQ221DJdir592H3VBrjnPyVsWUoWhDtg7molNeKWMRibRnnIYBJi7PY8uo9ADglSjqDp+gGObr9BJwyP3+mjk+NwFNrHplVHrD3ihpJepcV9TZySJbcmi5s+fMYqOcJ0fFMr24AKsqRlklFZIuk9mpNXYL5vWdmhEAsEVIsZzXLBdKO9QEYfpRG+ML1p+zpbyeof/xMs9dk9BcI6eBya6jZMZNgOZwTj+QTWMhIfX4qgUNABSevQpnzRixnu0HYzUQIPpIPGCJf+PWy0H1BS5+32041DaILQJc5uQJO0hV4o0lgJrmw6EZLFn6CGVNpk3N8yaFIvUH14JANH1DX7zju99WgbYSEtuQAxf+C+f3guUGNxROC2e5rb9boGAH0nQidaiZEQTpln1bsyJ0jXoSri5jV+AopdkvP58AkhUQty/sP+9LdZ/UC6ghplJkYr/loohEO+MSBhDGdQDD2sedjLONVAsPJLB+ZasnVvdldN+/Bv5ZCGh+uJtYyGI/6jZ1/IMKGulmIZGKYEGi5Bq7S0ThfyTbED03t2V1clM7H3rhjA1VnJp2KzuMZ2SOoZWP4CDIVUvKlxXoiNqqlS4e9pWH6rptgaduuONOUbZeP2eSwqDV5zw1U4pD/Mej8KeKsB5IVrt09OW+NDh5bSA3fclJuaySQ== ericm@DESKTOP-U8HKFDO"
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDSQ+qcjfhjkJAr1Bu486ey+HQ0mF0+eoxKFXCTeAS4reSYK601rc8ElTgCfQJnHuNgCiia9naCNfv4UcSH2yKwEXnlnimji3sht6r1SbS/FO77WYHRYIP5Bw2IoJHlL2CHAzP0u8UtnomTKZgExT6NC+I+c+zijOSpXWYkCj0WWR99MmLvRFZk0hB2dUNh2GUmof3SiCHdeAHWIkyO7ZueEOM1/46zJAsJnZDZLu2z4oz7OEtan12wy8b4zAZsoFYuYQUjpe6KwWfkqDNHsbKfzV16Iw+rycmCld4iKDm1DufHkdq/tTc+GQY4Dh0aCI5FHh4CvcwfuEiDCrdwOpkO6momtgHyhhE/9O9AGZNZgKUJ86LIvkjMVJ3JhspdoygInnaY290/4qnQR/jUs7OTtXpGtnM2mGNAXj2b7SaygF6ksI+m2WXO0LMMcuDi0mw4HRFa0ToKG0aW8W1DIOrVe6zMhUXaRzDwgRyi7bAXmLRWiKfwnwvQYSjx7cZpIbidfm8673/4vIcWSsDxiZrNeK2D08tYo4Z4jsn9zESamXTBfdH8rZDa4d9PNm8xN5p2Qz9TzHWuw4ILkvlzwIhu7XTc9RmQhtk4toD2jYLCeHtWjLrq5aZDLk1IW6a89/KFf7XRdQnqO4jyrR9jbCCTFoUQFMh1LsoisFELvc9VYQ== huike@edxClient3"
         },
         "mongoServerAdminUserName": {
             "value": "oxamongoadmin"
@@ -75,7 +75,7 @@
             "value": 1
         },
         "oxaToolsGithubAccountName": {
-            "value": "iovex"
+            "value": "flowerpp"
         },
         "oxaToolsGithubProjectName": {
             "value": "oxa-tools"
@@ -84,7 +84,7 @@
             "value": "oxa/master.fic"
         },
         "edxConfigurationGithubAccountName": {
-            "value": "iovex"
+            "value": "flowerpp"
         },
         "edxConfigurationGithubProjectName": {
             "value": "edx-configuration"
@@ -93,7 +93,7 @@
             "value": "oxa/master.fic"
         },
         "edxPlatformGithubAccountName": {
-            "value": "iovex"
+            "value": "flowerpp"
         },
         "edxPlatformGithubProjectName": {
             "value": "edx-platform"
@@ -102,7 +102,7 @@
             "value": "oxa/master.fic"
         },
         "edxThemeGithubAccountName": {
-            "value": "iovex"
+            "value": "flowerpp"
         },
         "edxThemeGithubProjectName": {
             "value": "edx-theme"
@@ -254,7 +254,7 @@
             "value": ""
         },
         "baseDomain": {
-            "value": "{CLUSTERNAME}-tm.trafficmanager.cn"
+            "value": ""
         },
         "domainSeparator": {
             "value": "-"

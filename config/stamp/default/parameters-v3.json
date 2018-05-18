@@ -75,7 +75,7 @@
             "value": 1
         },
         "oxaToolsGithubAccountName": {
-            "value": "iovex"
+            "value": "flowerpp"
         },
         "oxaToolsGithubProjectName": {
             "value": "oxa-tools"
@@ -84,7 +84,7 @@
             "value": "{GITHUBBRANCH}"
         },
         "edxConfigurationGithubAccountName": {
-            "value": "iovex"
+            "value": "flowerpp"
         },
         "edxConfigurationGithubProjectName": {
             "value": "edx-configuration"
@@ -93,7 +93,7 @@
             "value": "{GITHUBBRANCH}"
         },
         "edxPlatformGithubAccountName": {
-            "value": "iovex"
+            "value": "flowerpp"
         },
         "edxPlatformGithubProjectName": {
             "value": "edx-platform"
@@ -102,7 +102,7 @@
             "value": "{GITHUBBRANCH}"
         },
         "edxThemeGithubAccountName": {
-            "value": "iovex"
+            "value": "flowerpp"
         },
         "edxThemeGithubProjectName": {
             "value": "edx-theme"
